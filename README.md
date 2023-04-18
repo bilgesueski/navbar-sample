@@ -1,4 +1,4 @@
-# zerdava-navbar
-## zerdava-frontend-navbar
+# navbar-sample
 
-### with HTML5, Tailwind CSS
+
+### HTML5, Tailwind CSS
